@@ -10,5 +10,3 @@ Scheduled web collection for AI workflows, built to be boring.
 ```bash
 npx @agentscraper-cc/cli fetch https://example.com -o text
 ```
-
-Built on the [Live Web Data API](https://livewebdata.com).
