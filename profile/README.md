@@ -11,4 +11,4 @@ Scheduled web collection for AI workflows, built to be boring.
 npx @agentscraper-cc/cli fetch https://example.com -o text
 ```
 
-A [Teneo Labs](https://agentscraper.cc/imprint) project, built on the [Live Web Data API](https://livewebdata.com).
+Built on the [Live Web Data API](https://livewebdata.com).
